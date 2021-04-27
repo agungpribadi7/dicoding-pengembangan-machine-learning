@@ -1,4 +1,4 @@
-**Tweeter Sentiment Analysis**
+**Twitter Sentiment Analysis**
 
 Pada tugas ini, dataset didapatkan melalui kaggle (dapat dilihat pada code diatas). Dataset terdiri dari 5 sentiment: very positive, positive, neutral, negative, very negative.
 Agar machine yang belajar tidak binggung membedakan positive dengan very positive, maka sentiment tersebut digabung menjadi 1 yaitu positive, begitu pula dengan yang negative.
