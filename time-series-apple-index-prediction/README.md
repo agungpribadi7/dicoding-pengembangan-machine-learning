@@ -2,7 +2,7 @@
 
 Pada tugas ini hanya berupa eksperimental, dan tidak dapat digunakan untuk dunia nyata karena terdapat resiko perubahan index saham yang tidak menentu.
 Dengan diberikannya nilai opening saham apple sebanyak 60 hari, maka model deep learning dapat memprediksi nilai opening hari berikutnya (hari ke-61).
-Model deep learning diatas memiliki tingkat akurasi **95% (atau MAE kurang lebih sebesar 5%)**.
+Model deep learning diatas memiliki tingkat akurasi **95% (atau MAE kurang lebih sebesar 5%)**. Untuk melihat data secara visual buka file tipe .ipnyb, lakukan reload jika terjadi error (disebabkan oleh github).
 
 **Persyatan pada tugas ini adalah:**
 
